@@ -31,9 +31,10 @@ python worker.py worker4 5004
 ```sh
 python cli.py
 ```
-## Galery 
+## Gallery 
+
 1. CLI
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/sohaeac/ScalableArchi/blob/master/figures/cli_1.png?raw=true)
 
 2. Some rendered Mandelbrot sets 
 
