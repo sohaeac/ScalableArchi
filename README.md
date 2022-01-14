@@ -37,5 +37,6 @@ python cli.py
 
 2. Some rendered Mandelbrot sets 
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/sohaeac/ScalableArchi/blob/master/figures/Figure_1.png?raw=true)
+
+![alt text](https://github.com/sohaeac/ScalableArchi/blob/master/figures/Figure_HOT.png?raw=true)
