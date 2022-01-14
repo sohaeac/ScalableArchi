@@ -34,6 +34,7 @@ python cli.py
 ## Gallery 
 
 1. CLI
+
 ![alt text](https://github.com/sohaeac/ScalableArchi/blob/master/figures/cli_1.png?raw=true)
 
 2. Some rendered Mandelbrot sets 
