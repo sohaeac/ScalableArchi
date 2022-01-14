@@ -42,3 +42,5 @@ python cli.py
 ![alt text](https://github.com/sohaeac/ScalableArchi/blob/master/figures/Figure_1.png?raw=true)
 
 ![alt text](https://github.com/sohaeac/ScalableArchi/blob/master/figures/Figure_HOT.png?raw=true)
+
+![alt text](https://github.com/sohaeac/ScalableArchi/blob/master/figures/Figure_2.png?raw=true)
